@@ -1,7 +1,7 @@
 # Artket
 
 This project was generated with [firebase-cli](https://firebase.google.com/docs/cli/).
-This is where the web api code will be, and where we will keep out firebase realtime databse rules.
+This is where the web api code will be, and where we will keep our firebase realtime databse rules.
 
 ## Setup Environment
 - Run `firebase login` in service root folder, login with arket firebase credential
